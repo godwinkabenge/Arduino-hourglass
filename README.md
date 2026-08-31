@@ -21,6 +21,10 @@ This project uses an Arduino, tilt sensor, and six LEDs to create a digital hour
 * A Breadboard
 * Connecting wires
 
+## Project Setup
+
+![Hourglass Setup](./IMG_4872.jpg)
+
 ## How It Works
 
 1. Uses `millis()` to track the elapsed time without stopping the Arduino program.
@@ -43,10 +47,10 @@ Two videos showing the digital hourglass timer and reset function can be seen be
 {Note: The LEDs in the video are programmed to turn on every 3 seconds instead of 10 minutes for easy demonstration purposes! This can be changed with a simple change of the `long interval` value in the code :) }
 
 
-This video demonstrates how the tilt sensor works to turn off all LEDs and reset the timer
+This [Video](./Tilt_sensor_demo.mp4) demonstrates how the tilt sensor works to turn off all LEDs and reset the timer
 
 
-This [Video](./Arduino_Digital_Hourglass_demo.mp4) demonstrates how the 6 LED lights simulate an hour glass.
+This [Video](./Hourglass_demo.mp4) demonstrates how the 6 LED lights simulate an hour glass.
 
 
 

@@ -23,7 +23,7 @@ This project uses an Arduino, tilt sensor, and six LEDs to create a digital hour
 
 ## Project Setup
 
-![Hourglass Setup](./IMG_4872.jpg)
+![Hourglass Setup](./IMG_4871.jpg)
 
 ## How It Works
 

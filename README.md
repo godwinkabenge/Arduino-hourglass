@@ -44,7 +44,7 @@ This video demonstrates how the tilt sensor works to turn off all LEDs and reset
 
 This video demonstrates how the 6 LED lights simulate an hour glass.
 
-{Note: The LEDs in the video are programmed to turn on every 3 seconds instead of 10 minutes for easy demonstration purposes! This can be changed with a simple change of value in the code :) }
+{Note: The LEDs in the video are programmed to turn on every 3 seconds instead of 10 minutes for easy demonstration purposes! This can be changed with a simple change of the `long interval` value in the code :) }
 
 [Watch the project demonstration](./Arduino_Digital_Hourglass_demo.mp4)
 
